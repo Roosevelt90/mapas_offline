@@ -1,5 +1,7 @@
 {
   "name": "offline_1",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
